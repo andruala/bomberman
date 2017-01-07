@@ -1,3 +1,3 @@
 # bomberman
-Just a personal project.
-Made by Lepadatu Alexandru
+# Just a personal project.
+# Made by Lepadatu Alexandru
